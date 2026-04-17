@@ -39,3 +39,11 @@ blivechat-template-star
 
 - [弹幕样式素材【留白】](https://mall.bilibili.com/neul-next/detailuniversal/detail.html?itemsId=40137369&msource=comments_)
 - [blivechat](https://github.com/xfgryujk/blivechat)
+
+<!-- links -->
+[stars-shield]: https://img.shields.io/github/stars/anyanything/blivechat-template-star.svg?style=flat-square
+[stars-url]: https://github.com/anyanything/blivechat-template-star/stargazers
+[issues-shield]: https://img.shields.io/github/issues/anyanything/blivechat-template-star.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/anyanything/blivechat-template-star.svg
+[license-shield]: https://img.shields.io/github/license/anyanything/blivechat-template-star.svg?style=flat-square
+[license-url]: https://github.com/anyanything/blivechat-template-star/blob/master/LICENSE.txt
